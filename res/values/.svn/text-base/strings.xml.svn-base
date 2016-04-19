@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NumberPlus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_intro">ひたすら足し算をしていくゲームです。\n最高記録目指して頑張りましょう。</string>
+    <string name="start_button">Game Start !</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="submit_button">解答！</string>
+    <string name="tashite">足し算すると</string>
+    <string name="naruno">となるのは？</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="score">あなたのスコア</string>
+	<string name="bestscore">あなたの最高スコア</string>
+	<string name="retry">もう１回やる</string>
+	<string name="end">もうやめる</string>
+</resources>
